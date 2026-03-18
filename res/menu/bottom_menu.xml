@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pendientesFragment"
+        android:title="Pendientes"
+        android:icon="@android:drawable/ic_menu_recent_history" />
+    <item
+        android:id="@+id/inicioFragment"
+        android:title="Explorar"
+        android:icon="@android:drawable/ic_menu_search" />
+    <item
+        android:id="@+id/seguimientoFragment"
+        android:title="Seguimiento"
+        android:icon="@android:drawable/ic_menu_my_calendar" />
+</menu>
